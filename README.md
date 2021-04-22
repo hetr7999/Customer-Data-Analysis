@@ -1,6 +1,6 @@
-Data Analysis - IDZ
+                                                                    Customer Data Analysis
 
-Use Case1 - I presumed that the Data provided in excel sheets is the customer base of the IDZ company. In that case, I have made some assumptions which will be highlighted.
+Use Case1 - I presumed that the Data provided in excel sheets is the customer base of the XYZ company. In that case, I have made some assumptions which will be highlighted.
 
 Use Case2- The Data provided simply provides insights about every person and performs some analysis based on their age and occupation.
 
