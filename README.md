@@ -1,4 +1,4 @@
-                                                                    Customer Data Analysis
+                                         Customer Data Analysis
 
 Use Case1 - I presumed that the Data provided in excel sheets is the customer base of the XYZ company. In that case, I have made some assumptions which will be highlighted.
 
